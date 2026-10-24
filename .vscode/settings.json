@@ -1,0 +1,13 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": "explicit" },
+  "workbench.editor.customLabels.enabled": true,
+  "workbench.editor.customLabels.patterns": {
+    "**/app/**/page.tsx": "${dirname} · page",
+    "**/app/**/layout.tsx": "${dirname} · layout",
+    "**/app/**/loading.tsx": "${dirname} · loading",
+    "**/app/**/error.tsx": "${dirname} · error",
+    "**/app/**/route.ts": "${dirname} · route"
+  }
+}
