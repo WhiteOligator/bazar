@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Apple MacBook Air 15 M3">
+  <rect width="600" height="600" fill="hsl(235 22% 93%)"/>
+  <rect x="150" y="110" width="300" height="380" rx="28" fill="hsl(235 30% 84%)" stroke="hsl(235 30% 60%)" stroke-width="3"/>
+  <text x="300" y="320" text-anchor="middle" font-family="system-ui, sans-serif" font-size="96" font-weight="600" fill="hsl(235 35% 32%)">AP</text>
+  <text x="300" y="540" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" fill="hsl(235 25% 38%)">Apple MacBook Air 15 M3</text>
+</svg>

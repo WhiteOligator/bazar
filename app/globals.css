@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import "@whiteoligator/drill-kit/styles-no-preflight.css";
 
 body {
   background: var(--bg-app);

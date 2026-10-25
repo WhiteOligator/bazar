@@ -1,10 +1,7 @@
-import { Button } from "@whiteoligator/drill-kit";
-
-export default function Home() {
+export default function HomePage() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center gap-4">
-      <h1 className="text-2xl font-semibold">Bazar · шаг 0</h1>
-      <Button variant="primary">Кнопка из drill-kit</Button>
+    <main className="mx-auto max-w-[1392px] px-6 py-5">
+      <h1 className="text-2xl font-bold">Витрина</h1>
     </main>
   );
 }
